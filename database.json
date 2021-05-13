@@ -4,5 +4,11 @@
     "email": "tope@zuri.com",
     "country": "ghana",
     "id": 1
+  },
+  {
+    "name": "zuri",
+    "email": "tope@zuri.com",
+    "country": "nigeria",
+    "id": 2
   }
 ]
